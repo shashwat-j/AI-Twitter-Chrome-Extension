@@ -1,0 +1,15 @@
+body {
+    min-width: 250px;
+    color: black;
+  background-color: rgb(188, 187, 187);
+}
+
+button {
+	border-radius: 4px;
+    background-color: #174296;
+    color: rgb(242, 234, 234);
+}
+
+#key_entered {
+    display: none;
+}
