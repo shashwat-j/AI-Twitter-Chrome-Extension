@@ -4,7 +4,7 @@ Add your openAI API key [Get it from here](https://beta.openai.com/account/api-k
 
 After adding key, just start typing your tweet's topic in twitter, highlight it, right click and select generate tweet.
 
-![plot](./assets/example1.jpg)
-![plot](./assets/example2.jpg)
+![plot](./assets/example1.png)
+![plot](./assets/example2.png)
 
 PS: The extension is a working in progress. Checkout the [Web App](https://ai-tweeter.up.railway.app/)
