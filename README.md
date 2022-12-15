@@ -1,6 +1,10 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project. 
+To use my extension, download the repository zip and then [Load Unpacked Extension](https://www.instructables.com/How-to-Load-Unpacked-Extension-in-Chrome-Easy/)
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+Add your openAI API key [Get it from here](https://beta.openai.com/account/api-keys)
+
+After adding key, just start typing your tweet's topic in twitter, highlight it, right click and select generate tweet.
+
+![plot](./assets/example1.jpg)
+![plot](./assets/example2.jpg)
+
+PS: The extension is a working in progress. Checkout the [Web App](https://ai-tweeter.up.railway.app/)
